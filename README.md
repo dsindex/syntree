@@ -2,7 +2,7 @@
 
 * replace brackets to parentheses for visualizing the Sejong Tree Bank.
 * replace '_' to '-' for movement arrows
-* sample phrase structure tree(constituent tree)
+* phrase structure tree(constituent tree)
 ```
 ; 가계부의 틀이 달라지고 있다.
 (S  (NP_SBJ (NP_MOD 가계부/NNG + 의/JKG)

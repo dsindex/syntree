@@ -2,7 +2,6 @@
 
 * replace brackets to parentheses for visualizing the TreeBank of Sejong.
 * replace '_' to '-' for movement arrows
-* [web test](http://10.27.27.89:3680/syntree/index.php)
 
 ### README of original source
 

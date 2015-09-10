@@ -1,6 +1,6 @@
 ### Modification
 
-* replace brackets to parentheses for visualizing the TreeBank of Sejong.
+* replace brackets to parentheses for visualizing the Sejong Tree Bank.
 * replace '_' to '-' for movement arrows
 
 ### README of original source

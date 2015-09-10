@@ -1,7 +1,16 @@
 ### Modification
 
-* replace brackets to parentheses for visualizing the TreeBank of Sejong.
+* replace brackets to parentheses for visualizing the Sejong Tree Bank.
 * replace '_' to '-' for movement arrows
+* sample phrase structure tree(constituent tree)
+```
+; 가계부의 틀이 달라지고 있다.
+(S  (NP_SBJ (NP_MOD 가계부/NNG + 의/JKG)
+        (NP_SBJ 틀/NNG + 이/JKS))
+    (VP (VP 달라지/VV + 고/EC)
+        (VP 있/VX + 다/EF + ./SF)))
+```
+![sampe view](https://dl.dropboxusercontent.com/u/5061852/pstree.png)
 
 ### README of original source
 

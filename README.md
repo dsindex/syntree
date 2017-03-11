@@ -10,7 +10,7 @@
     (VP (VP 달라지/VV + 고/EC)
         (VP 있/VX + 다/EF + ./SF)))
 ```
-![sampe view](https://dl.dropboxusercontent.com/u/5061852/pstree.png)
+![sampe view](https://raw.githubusercontent.com/dsindex/blog/master/images/pstree.png)
 
 ### README of original source
 
